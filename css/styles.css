@@ -5,3 +5,18 @@
 #tomjerry {
   background-color: white;
 }
+
+.initially-hidden {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.bkgrnd {
+  background-image: url('../img/tomjerry2.gif');
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 300px;
+}
